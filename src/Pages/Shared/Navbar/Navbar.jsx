@@ -35,7 +35,7 @@ const Navbar = () => {
                             <img src={navProfileDefaultImg}/>
                         </div>
                     </label>
-                    <Link to={'/login'}><button className="btn btn-success rounded-none">Login</button></Link>
+                    <Link to={'/login'}><button className="btn bg-[#403F3F] text-white rounded-none px-10 ">Login</button></Link>
                 </div>
             </div>
         </div>
